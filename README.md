@@ -1,7 +1,7 @@
 # [Manim](https://3b1b.github.io/manim/)-MC-Stat-Animation (work in progress)
 ## Automatic SQL database (with Minecraft stat files) visualisation using Manim
 
-Example output:<br/>
+Example output for **useItem.minecraft.diamond_pickaxe**:<br/>
 
 https://user-images.githubusercontent.com/103208695/178838964-d70ea48f-d918-4d54-a552-2c1db81a3361.mp4
 
